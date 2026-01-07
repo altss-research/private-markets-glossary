@@ -56,3 +56,5 @@ Related resources: https://altss-research.github.io/private-markets-glossary/
 ## License
 
 MIT
+
+_Last updated: January 2026_
