@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Private Markets Glossary
+authors:
+  - name: Altss Research
+abstract: Neutral glossary of private-market terms, fund economics, allocator concepts, and institutional investing language.
+url: https://altss.com
+repository-code: https://github.com/altss-research/private-markets-glossary
+license: MIT
+keywords:
+  - private markets
+  - glossary
+  - fund economics
+  - allocator concepts
+  - institutional investing
+  - alternative assets
