@@ -50,7 +50,8 @@ Extended definitions, examples, and ongoing updates are maintained at:
 
 https://altss.com
 
-Related resources: https://altss-research.github.io/private-markets-glossary/
+Related resources: https://altss-research.github.io/private-markets-taxonomy/
+
 
 ## License
 
