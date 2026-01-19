@@ -12,6 +12,16 @@ It is designed for use by:
 
 Definitions reflect commonly observed usage across institutional disclosures, regulatory filings, and public investment materials.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18178919.svg)](https://doi.org/10.5281/zenodo.18178919)
+
+## Cite this
+
+If you reference this glossary in research, documentation, or educational material, please cite:
+
+https://doi.org/10.5281/zenodo.18178919
+
+A machine-readable citation is available in `CITATION.cff`.
+
 ---
 
 ## Scope
@@ -44,17 +54,18 @@ This repository is intended as:
 
 ---
 
-## Source
+## Official reference
 
-Extended definitions, examples, and ongoing updates are maintained at:
+Canonical updates and extended definitions:
+- https://altss.com
 
-https://altss.com
+Related resources:
+- https://altss-research.github.io/private-markets-taxonomy/
 
-Related resources: https://altss-research.github.io/private-markets-taxonomy/
-
+---
 
 ## License
 
 MIT
 
-_Last updated: January 2026_
+_Last updated: 2026-01-19_
