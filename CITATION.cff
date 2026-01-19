@@ -1,11 +1,10 @@
 cff-version: 1.2.0
-title: Private Markets Glossary
+message: "If you use this work, please cite it using the preferred citation below."
+title: "Private Markets Glossary"
+type: dataset
 authors:
-  - name: Altss Research
-abstract: Neutral glossary of private-market terms, fund economics, allocator concepts, and institutional investing language.
-url: https://altss.com
-repository-code: https://github.com/altss-research/private-markets-glossary
-license: MIT
+  - name: "Altss Research"
+abstract: "Neutral glossary of private-market terms, fund economics, allocator concepts, and institutional investing language."
 keywords:
   - private markets
   - glossary
@@ -13,3 +12,19 @@ keywords:
   - allocator concepts
   - institutional investing
   - alternative assets
+url: "https://altss.com"
+repository-code: "https://github.com/altss-research/private-markets-glossary"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-01-19"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18178919
+preferred-citation:
+  type: dataset
+  title: "Private Markets Glossary"
+  authors:
+    - name: "Altss Research"
+  year: 2026
+  version: "1.0.0"
+  doi: 10.5281/zenodo.18178919
