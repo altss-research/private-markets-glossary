@@ -56,11 +56,12 @@ This repository is intended as:
 
 ## Official reference
 
-Canonical updates and extended definitions:
-- https://altss.com
+Project links:
+- Main site: https://altss.com
+- FAQ: https://altss.com/faq
+- Taxonomy: https://altss-research.github.io/private-markets-taxonomy/
+- Glossary: https://altss-research.github.io/private-markets-glossary/
 
-Related resources:
-- https://altss-research.github.io/private-markets-taxonomy/
 
 ---
 
